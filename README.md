@@ -27,4 +27,4 @@ In the project directory, you can run to execute test cases:
 `jasmine`
 
 ## Text search implemented using postgreSql
-**Implemented Full-text search in PostgreSQL for more details, Please read my Article [here](https://medium.com/codewords/implementing-full-text-search-in-postgresql-3160950b4628)**
+**Implemented Full-text search in PostgreSQL for more details, Read my article [here](https://medium.com/codewords/implementing-full-text-search-in-postgresql-3160950b4628)**
